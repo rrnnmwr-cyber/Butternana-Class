@@ -1,0 +1,10 @@
+<!DOCTYPE css>
+<style>
+        body {
+            background-image: url(Background.JPG);
+            height: 100vh;
+            background-size:cover;
+            background-position: center;
+            min-height: 100px;
+        }
+    </style>
